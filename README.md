@@ -1,4 +1,4 @@
-# JanSetu — Unified Grievance Lodging Demo
+# Nivaran — Unified Grievance Lodging Demo
 
 A polished, frontend-only portfolio demonstration for the **“Unified Portal for Grievance Lodging”** concept. Built with Next.js, TypeScript, Tailwind CSS, and shadcn-style UI primitives.
 
@@ -59,14 +59,14 @@ No backend, API keys, authentication provider, uploaded evidence storage, or pai
 
 ## Presentation-sourced functionality vs. demo enhancements
 
-| Presentation-sourced / proposed | Demo enhancements added for a usable portfolio prototype |
-| --- | --- |
-| Unified lodging and tracking | Multi-step form, review step, generated local reference |
-| Chatbot / automation concept | Inspectable category-to-department routing simulation |
-| Departmental grievance handling | Local admin queue with assignment/status controls |
-| Notifications and real-time updates | Static activity timeline and a non-functional “Enable updates” affordance |
-| Feedback loop, surveys and reporting | Local feedback/reopen controls and lightweight workload bars |
-| Government dashboard | Responsive admin dashboard based on fictional seeded records |
+| Presentation-sourced / proposed      | Demo enhancements added for a usable portfolio prototype                  |
+| ------------------------------------ | ------------------------------------------------------------------------- |
+| Unified lodging and tracking         | Multi-step form, review step, generated local reference                   |
+| Chatbot / automation concept         | Inspectable category-to-department routing simulation                     |
+| Departmental grievance handling      | Local admin queue with assignment/status controls                         |
+| Notifications and real-time updates  | Static activity timeline and a non-functional “Enable updates” affordance |
+| Feedback loop, surveys and reporting | Local feedback/reopen controls and lightweight workload bars              |
+| Government dashboard                 | Responsive admin dashboard based on fictional seeded records              |
 
 ## Limitations
 
